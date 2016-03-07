@@ -1,1 +1,4 @@
 baseurl: /blog
+markdown: redcarpet
+author: Hongsun
+highlighter: pygments
