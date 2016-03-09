@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: 很久前在新浪blog写的一些技术文章
 ---
 
