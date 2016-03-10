@@ -1,4 +1,4 @@
-baseurl: /
+url: http://walle-hong.github.io
 markdown: redcarpet
 author: Hongsun
 highlighter: pygments
