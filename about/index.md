@@ -5,7 +5,7 @@ comments: yes
 ---
 
 # 简要介绍
-我是一个工作了几年然后漂泊到美帝读博士的工程师。
+我是一个工作了几年然后漂泊到美帝读博士的工程师。“你很reliable呀” - 导师说。所以我应该是个靠谱的人，尽管我希望评价是“You are rich”, "You are handsome", and "You are attractive to girls.". 不过anyway，reliable也不错了，可以接受。
 
 #个人爱好
 - 神经科学。没法不爱，因为是博士科研的方向，不爱它至深则难以出成果
