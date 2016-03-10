@@ -3,11 +3,12 @@ layout: default
 title: Notes from "Ultrasound Biosafety Considerations for the Practicing Sonographer and Sonologist"
 ---
 
-#Notes
-##Overview
+# Notes
+
+## Overview
 [This paper](http://www.jultrasoundmed.org/content/28/2/139.full.pdf) is a nice paper in terms of reviewing ultrasound biosafty. What's more, it introduces the FDA requriments of different ultrasound equiments, including diagnositc ultrasound and nondiagnostic ultrasound equipments.
 
-> ##Concepts
+## Concepts
 This paper clarifies some concepts which I have been confused with. For future review, all the important concepts are listed below.
 - Acoustic power: The rate of energy production, which unit is 1 J/s
 - Acoustic intensity: The rate of energy flowing through a unit area (watts per square centimeter)
