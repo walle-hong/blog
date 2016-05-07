@@ -1,3 +1,8 @@
+---
+layout: default
+title: NeuroWords From Prof. Honda
+---
+
 ##　Week 1
 * **nucleus**
 a central point around which matter is gathered. Groups of nerve cells or masses of gray matter within in the central nervous systems are known as nuclei.
