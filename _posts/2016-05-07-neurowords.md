@@ -11,11 +11,11 @@ L. nucleus - a little kernel
 a circular convolution. The brain is made up of many circular convolutions, gyri, which have been given identifying names.
 G. gyros - circle
 
-* rostral
+* **rostral**
 towards the front, beak of the body.
 L. rostrum - beak
 
-* sagittal
+* **sagittal**
 direction in an antero-posterior plane, which is the direction which would be taken by an arrow passing through the body from front to back. Some apply a more restrictive definition whereby the path of the arrow determines a single plane passing between the eyes, resulting in only one sagittal plane. All other planes parallel to this one areparasagittal.
 L. sagitta - arrow
 
